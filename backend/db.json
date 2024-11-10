@@ -1,0 +1,186 @@
+{
+  "times": [
+    {
+      "id": 1,
+      "nome": "Botafogo",
+      "pontos": 68,
+      "numjogos": 33
+    },
+    {
+      "id": 2,
+      "nome": "Palmeiras",
+      "pontos": 64,
+      "numjogos": 33
+    },
+    {
+      "id": 3,
+      "nome": "Fortaleza",
+      "pontos": 60,
+      "numjogos": 32
+    },
+    {
+      "id": 4,
+      "nome": "Internacional",
+      "pontos": 59,
+      "numjogos": 33
+    },
+    {
+      "id": 5,
+      "nome": "Flamengo",
+      "pontos": 58,
+      "numjogos": 32
+    },
+    {
+      "id": 6,
+      "nome": "Sao Paulo",
+      "pontos": 54,
+      "numjogos": 32
+    },
+    {
+      "id": 7,
+      "nome": "Bahia",
+      "pontos": 46,
+      "numjogos": 32
+    },
+    {
+      "id": 8,
+      "nome": "Cruzeiro",
+      "pontos": 44,
+      "numjogos": 32
+    },
+    {
+      "id": 9,
+      "nome": "Vasco",
+      "pontos": 43,
+      "numjogos": 32
+    },
+    {
+      "id": 10,
+      "nome": "Corinthians",
+      "pontos": 41,
+      "numjogos": 33
+    },
+    {
+      "id": 11,
+      "nome": "Atletico-MG",
+      "pontos": 41,
+      "numjogos": 31
+    },
+    {
+      "id": 12,
+      "nome": "Gremio",
+      "pontos": 39,
+      "numjogos": 32
+    },
+    {
+      "id": 13,
+      "nome": "Vitoria",
+      "pontos": 38,
+      "numjogos": 33
+    },
+    {
+      "id": 14,
+      "nome": "Fluminense",
+      "pontos": 37,
+      "numjogos": 33
+    },
+    {
+      "id": 15,
+      "nome": "Criciuma",
+      "pontos": 37,
+      "numjogos": 32
+    },
+    {
+      "id": 16,
+      "nome": "Bragantino",
+      "pontos": 35,
+      "numjogos": 32
+    },
+    {
+      "id": 17,
+      "nome": "Athletico-PR",
+      "pontos": 34,
+      "numjogos": 31
+    },
+    {
+      "id": 18,
+      "nome": "Juventude",
+      "pontos": 34,
+      "numjogos": 32
+    },
+    {
+      "id": 19,
+      "nome": "Cuiaba",
+      "pontos": 29,
+      "numjogos": 33
+    },
+    {
+      "id": 20,
+      "nome": "Atletico-GO",
+      "pontos": 25,
+      "numjogos": 32
+    }
+  ],
+  "rodadas": [
+    {
+      "id": "1",
+      "numrodada": 34,
+      "time1": "Bahia",
+      "time2": "Palmeiras"
+    },
+    {
+      "id": "2",
+      "numrodada": 34,
+      "time1": "Corinthians",
+      "time2": "Cruzeiro"
+    },
+    {
+      "id": "3",
+      "numrodada": 34,
+      "time1": "Bragantino",
+      "time2": "Sao Paulo"
+    },
+    {
+      "id": "4",
+      "numrodada": 34,
+      "time1": "Athletico-PR",
+      "time2": "Atletico-GO"
+    },
+    {
+      "id": "5",
+      "numrodada": 34,
+      "time1": "Criciuma",
+      "time2": "Vitoria"
+    },
+    {
+      "id": "6",
+      "numrodada": 34,
+      "time1": "Gremio",
+      "time2": "Juventude"
+    },
+    {
+      "id": "7",
+      "numrodada": 34,
+      "time1": "Cuiaba",
+      "time2": "Flamengo"
+    },
+    {
+      "id": "8",
+      "numrodada": 34,
+      "time1": "Atletico-MG",
+      "time2": "Botafogo"
+    },
+    {
+      "id": "9",
+      "numrodada": 34,
+      "time1": "Vasco",
+      "time2": "Internacional"
+    },
+    {
+      "id": "10",
+      "numrodada": 34,
+      "time1": "Fluminense",
+      "time2": "Fortaleza"
+    }
+  ]
+}
